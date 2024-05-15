@@ -1,0 +1,12 @@
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\bin\Debug\proyecto3.exe.config
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\bin\Debug\proyecto3.exe
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\bin\Debug\proyecto3.pdb
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.csprojAssemblyReference.cache
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.Form1.resources
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.Properties.Resources.resources
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.GenerateResource.cache
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.exe
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.pdb
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.sistema.resources
+C:\Users\urielgv\Desktop\proyecto3\proyecto3\obj\Debug\proyecto3.imprimirdatos.resources

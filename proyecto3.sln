@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto3", "proyecto3\proyecto3.csproj", "{43A6D2E4-F9D5-4C6A-BA05-504C86A59FE1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "control de pagos", "control de pagos\control de pagos.vdproj", "{2DE7DFEA-E634-4B1C-B7C7-6C4871C6D3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A6D2E4-F9D5-4C6A-BA05-504C86A59FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A6D2E4-F9D5-4C6A-BA05-504C86A59FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A6D2E4-F9D5-4C6A-BA05-504C86A59FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A6D2E4-F9D5-4C6A-BA05-504C86A59FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE7DFEA-E634-4B1C-B7C7-6C4871C6D3A5}.Debug|Any CPU.ActiveCfg = Debug
+		{2DE7DFEA-E634-4B1C-B7C7-6C4871C6D3A5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C429612-A601-4110-85A5-89611D9E4A17}
+	EndGlobalSection
+EndGlobal
